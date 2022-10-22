@@ -1,2 +1,4 @@
 Radio buttons; if when selecting a button, is it possible to unclick that button and it'll show that it has been unselected? Or is this type of button meant to stay selected?
 while I am creating different branches, when I merge them all to the main branch, will it move the syntax/code onto my main branch as well? Or would i have to copy and paste it?
+Should we make the 5 pages all within one html file with the same link or separate on different links and files?
+syntax for linking a login page and it redirecting: <button id=><a href=>LOGIN</a></button>
